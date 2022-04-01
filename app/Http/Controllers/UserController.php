@@ -55,9 +55,4 @@ class UserController extends Controller
 
         print_r($countedWord);
     }
-
-
-
-
-
 }
